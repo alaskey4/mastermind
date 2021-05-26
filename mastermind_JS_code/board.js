@@ -10,9 +10,6 @@ class Board {
         }
         return grid;
     }
-
-
-
 }
 
 console.log(new Board);
